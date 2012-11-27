@@ -8,6 +8,9 @@ use bankaccount\framework\router\Router;
 
 class FrontController
 {
+	/**
+	 *
+	 */
     protected $factory;
     protected $request;
     protected $router;
